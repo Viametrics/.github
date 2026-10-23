@@ -9,11 +9,11 @@ fixes #(issue)
 - Adds ...
 - Removes ...
 - **Fixes ...**
-- Tests: (what covers it, or why nothing does)
+- Tests: (only when tests change, or a fix ships without one: why)
 
 > [!NOTE]
-> (Optional: why this approach and not the obvious one; behaviour changes; limitations. Delete if empty.)
+> (Only when something would surprise the reviewer: a behaviour change, a limitation, why not the obvious approach. Delete if empty.)
 
 ## Recommended for reviewer:
 
-- (Where to start, what to click through, which data to use.)
+- (Only when not obvious: where to start, what to click through, which data to use. Delete if empty.)
