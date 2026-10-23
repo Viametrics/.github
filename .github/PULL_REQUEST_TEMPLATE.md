@@ -1,6 +1,6 @@
 fixes #(issue)
 
-(One or two sentences: what and why.)
+(One or two sentences: what the PR does, as the reviewer would describe it. No mechanism or background.)
 
 ## This PR:
 
