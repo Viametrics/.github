@@ -1,6 +1,6 @@
 fixes #(issue)
 
-<!-- An issue in another repo: fixes Viametrics/<repo>#n -->
+<!-- "part of #n" when the PR completes only part of the issue. An issue in another repo: fixes Viametrics/<repo>#n. A paired PR in another repo: "sibling: <PR link>" on the next line. -->
 
 <!-- One or two sentences: what the PR does, as the reviewer would describe it. No mechanism or background. -->
 
