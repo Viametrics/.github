@@ -9,7 +9,7 @@ labels: ["🐛 bug"]
 ## Reported by
 
 - Company or estate:
-- User email(s):
+- Support ticket ID:
 - User role: <!-- tenant admin, tenant, webcontroller, (regular) viaweb user -->
 
 ## Environment
