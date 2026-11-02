@@ -32,7 +32,7 @@ Example: "Customers receive their weekly report by mail without exporting anythi
 
 ## Scope
 
-<!-- What belongs to the anchor and what doesn't.
+<!-- What belongs to the epic and what doesn't.
 Example: "In: weekly schedule, mail delivery. Out: custom report layouts." -->
 
 ## Decisions
