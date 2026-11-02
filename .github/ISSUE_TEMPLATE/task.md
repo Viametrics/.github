@@ -8,7 +8,7 @@ labels: []
 
 <!-- Examples: turning on a compiler flag, moving CI to a new runner, comparing chart libraries.
 When the kind of work is clear, replace [task] in the title with it and add the matching label, the board filters on labels:
-[groundwork] [refactor] [maintenance] [testing] [automation] [infrastructure] [spike].
+[groundwork] [refactor] [maintenance] [devops] [spike].
 A refactor that changes behaviour is split: a task for the refactor, a feature or bug for the behaviour change. -->
 
 ## Goal
